@@ -11,6 +11,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=ALX+Software+Engineering+Graduate;Full-Stack+Developer;Blockchain+Enthusiast;AI%2FML+Passionate" alt="Typing SVG" /></a>
 </p>
 
+---
+<h3>I am currently:</h3>
+<h4 align="left">
+  👨‍💻 Working on E-commerce web application for a client<br>
+  🌱 Learning <strong>AI/ML,WEB3, BLOCKCHAIN</strong><br>
+  👯 Open to collaborating on innovative projects<br>
+</h4>
+
+<h2>Connect with me:</h2>
+
 <div align="center">
   
    <!-- Social Media Links -->
@@ -33,6 +43,8 @@
    <img src="https://komarev.com/ghpvc/?username=james-eo&label=Profile%20views&color=6A5ACD&style=flat" alt="james-eo" />
   <img src="https://img.shields.io/github/followers/james-eo?label=Followers&style=social" alt="followers" />
 </div>
+
+
 
 <!-- About Me Section -->
 <h2>
@@ -238,12 +250,7 @@ I’m a proud graduate of the **ALX Software Engineering Program** where my jour
   <img src="https://github-profile-trophy.vercel.app/?username=james-eo&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </p>
 
----
-<h4 align="left">
-  👨‍💻 Currently working on E-commerce web application for a client<br>
-  🌱 Learning new technologies every day<br>
-  👯 Open to collaborating on innovative projects<br>
-</h4>
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
