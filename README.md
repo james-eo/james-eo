@@ -45,7 +45,7 @@ class SoftwareEngineer:
         self.name = "JAMES"
         self.role = "Full Stack Software Engineer"
         self.education = "ALX Software Engineering (Holberton Schools of Software Egineering)"
-        self.interests = ["Python", "⚛️ MERN", "AI/ML", "Blockchain", "Web3"]
+        self.interests = ["Python", "MERN", "AI/ML", "Blockchain", "Web3"]
         self.technica_skills = {
             "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "React Native", "Nextjs"],
             "backend": ["Python", "Node.js", "Flask", "Django", "Express"],
