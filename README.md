@@ -14,8 +14,8 @@
 ---
 <h3>I am currently:</h3>
 <h4 align="left">
-  👨‍💻 Working on E-commerce web application for a client<br>
-  🌱 Learning <strong>AI/ML,WEB3, BLOCKCHAIN</strong><br>
+  👨‍💻 Working on Educational AI agent<br>
+  🌱 Learning <strong>WEB3 & BLOCKCHAIN</strong><br>
   👯 Open to collaborating on innovative projects<br>
 </h4>
 
@@ -79,16 +79,16 @@ I’m a proud graduate of the **ALX Software Engineering Program** where my jour
       <h3 align="center">🛠️ Tools I Work With</h3>
       <div align="center">
         <!-- Programming Languages -->
-        <img src="https://skillicons.dev/icons?i=py,c,js,ts" alt="Programming Languages" />
+        <img src="https://skillicons.dev/icons?i=py,c,js,ts,rust" alt="Programming Languages" />
         &nbsp;&nbsp;&nbsp;
         <!-- Frameworks and Libraries -->
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,django,jquery,nextjs" alt="Frameworks and Libraries" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,react,nextjs,tailwindcss" alt="Frameworks and Libraries" />
         &nbsp;&nbsp;&nbsp;
         <!-- Databases -->
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Databases" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
         &nbsp;&nbsp;&nbsp;
         <!-- Tools & Platforms -->
-        <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vim,vscode,bash,linux,datadog" alt="Tools & Platforms" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vim,vscode,bash,linux,postman" alt="Tools & Platforms" />
       </div>
     </td>
     <!-- GIF Image (Right) -->
